@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Trager and I'm a Unity and Unreal developer skilled in C# and C++
 
 <!--
 **TragerSL2004/TragerSL2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
